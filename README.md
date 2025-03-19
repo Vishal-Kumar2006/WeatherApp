@@ -12,6 +12,7 @@ Clean and responsive UI
 
 Powered by a weather API
 
+<h2>Live demo : https://weather-app-ten-sigma-57.vercel.app/</h2
 
 <h2>🛠 Technologies Used</h2>
 React.js
